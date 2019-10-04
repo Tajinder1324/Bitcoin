@@ -149,6 +149,7 @@ svg:not(:root).svg-inline--fa {
 }
 .column{
     padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
 }
 .card{
     background-color: #2542a6;
